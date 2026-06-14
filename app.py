@@ -15,4 +15,4 @@ try:
 except Exception:
     # Si tu archivo se llama diferente (por ejemplo, sin emoji o con otro número),
     # Streamlit intentará este plan de respaldo automáticamente.
-    st.switch_page("pages/inicio.py")
+    st.switch_page("pages/1_inicio.py")
